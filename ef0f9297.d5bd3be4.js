@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[45],{144:function(o){o.exports=JSON.parse('{"allTagsPath":"https://github.com/dancefloor/dancefloor.github.io/blog/tags","slug":"dancefloor","name":"dancefloor","count":1,"permalink":"https://github.com/dancefloor/dancefloor.github.io/blog/tags/dancefloor"}')}}]);

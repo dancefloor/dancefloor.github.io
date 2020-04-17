@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[23],{123:function(o){o.exports=JSON.parse('{"permalink":"https://github.com/dancefloor/dancefloor.github.io/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"previousPage":null,"nextPage":null}')}}]);
